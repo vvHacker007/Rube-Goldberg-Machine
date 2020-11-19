@@ -1,4 +1,4 @@
-# Rube-Goldberg-Machine
+<h1 align=center >Rube-Goldberg-Machine</h1>
 A Rube Goldberg machine, named after American cartoonist Rube Goldberg, is a machine intentionally designed to perform a simple task in an indirect and overly complicated way. In 1931, the Merriam-Webster Dictionary added “Rube Goldberg” as an adjective. It meant “accomplishing by complex means what seemingly could be done simply.” 
  In this project we have written the code for a simple rube Goldberg machine using ADT’s which does the following in order:
 - It stores the user’s necessary data’s in a queue and converts them into a stack. 
